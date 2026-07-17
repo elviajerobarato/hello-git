@@ -2,8 +2,11 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-Esto es una prueba en local
+Esto es una prueba en local.
+Se ha modificado el fichero ##hello.md## añadiendo algunas lineas
 
+
+- _viajero_
 - mouredev
 - braismoure
 - Abiezerk
